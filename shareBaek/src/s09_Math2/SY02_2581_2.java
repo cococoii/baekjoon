@@ -19,7 +19,7 @@ public class SY02_2581_2 {
         }
     }
 
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args) throws IOException{ 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int M = Integer.parseInt(br.readLine());//제일 작은 수
         int N = Integer.parseInt(br.readLine());//제일 큰수
