@@ -12,7 +12,7 @@ public class SY03_11653 {
         for(int i=2;i<=Math.sqrt(N);i++){
             while (N%i==0){
                 N/=i;
-                sb.append(i+"\n");
+                sb.append(i+"\n"); 
             }
         }
         if(N!=1){
