@@ -18,7 +18,7 @@ public class MJ_07_4344_3 {
 			array = new int[N];
 
 			double sum = 0;//*
-			
+			 
 			for(int j=0;j<N;j++) {
 				int su = Integer.parseInt(st.nextToken());
 				array[j]=su;
