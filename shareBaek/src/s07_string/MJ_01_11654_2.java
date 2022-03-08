@@ -16,8 +16,10 @@ public class MJ_01_11654_2 {
 		int A = str.charAt(0);
 //		int A = Integer.parseInt(br.readLine());
 		
-//		System.out.println(A);
-		bw.write(A+"");
+		System.out.println(A);
+		bw.write(A);
+		bw.write(A+"\n");//(A+"");
+		bw.write(String.valueOf(A));
 
 		br.close();
 		bw.flush();
