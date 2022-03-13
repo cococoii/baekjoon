@@ -1,4 +1,4 @@
-package s07_characterString;
+package s07_string;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
