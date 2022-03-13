@@ -10,7 +10,7 @@ public class MJ_03_1065 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		System.out.println(math_sequence(Integer.parseInt(br.readLine())));
-	}
+	} 
 	
 	public static int math_sequence(int num) {
 		int count = 0;
