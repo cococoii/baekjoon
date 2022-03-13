@@ -3,7 +3,7 @@ package s07_characterString;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class DW09_2941_크로아티아알파벳 {
+public class DW09_2941{
 
 	public static void main(String[] args) throws Exception{
 		
