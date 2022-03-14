@@ -9,7 +9,7 @@ public class MJ_02_4673 {
 
 		//* boolean type의 기본값은 false이기 때문에 
 		//셀프 넘버가 아닌 항목을 true로 체크하고, 체크되지 않은(false) 항목을 출력.
-		
+		 
 		boolean [] array = new boolean[10001];
 		
 		for(int i=1;i<10001;i++) {

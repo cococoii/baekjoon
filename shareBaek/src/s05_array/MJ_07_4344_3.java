@@ -11,7 +11,7 @@ public class MJ_07_4344_3 {
 		int[] array;
 		int C = Integer.parseInt(br.readLine());
 		StringTokenizer st;
-		
+		 
 		for(int i=0;i<C;i++) {
 			st = new StringTokenizer(br.readLine()," ");
 			int N = Integer.parseInt(st.nextToken());

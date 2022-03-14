@@ -10,7 +10,7 @@ public class MJ_06_8958 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		//HashSet<Integer> hs = new HashSet<Integer>();
 		int R = Integer.parseInt(br.readLine());
-		
+		 
 		//int array[] = new int[R];
 		String array[] = new String[R]; //*
 		
