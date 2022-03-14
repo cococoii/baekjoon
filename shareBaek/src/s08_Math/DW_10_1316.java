@@ -3,7 +3,7 @@ package s08_Math;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class s10_1316 {
+public class DW_10_1316 {
 	public static void main(String[] args) throws Exception{
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
